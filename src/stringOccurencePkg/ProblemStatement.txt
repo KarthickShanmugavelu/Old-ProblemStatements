@@ -1,0 +1,1 @@
+For provided input string print every character along with the number of times the character has occured. 
