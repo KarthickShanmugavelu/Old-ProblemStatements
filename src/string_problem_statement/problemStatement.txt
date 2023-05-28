@@ -1,0 +1,9 @@
+Get input line from user and identify occurence of each word and print
+
+
+Input: How are you you
+
+Output: 
+how -1
+are - 1
+you - 2

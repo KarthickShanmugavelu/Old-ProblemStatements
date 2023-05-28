@@ -1,0 +1,13 @@
+Sort input Strings based on first name and last name;
+
+Input:
+VIJAY SHANKAR
+VIJAY ANAND
+VIJAY KUMAR
+AJAY KUMAR
+
+Output:
+AJAY KUMAR
+VIJAY ANAND
+VIJAY KUMAR
+VIJAY SHANKAR

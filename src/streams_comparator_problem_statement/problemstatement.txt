@@ -1,0 +1,1 @@
+Given a list of employee class objects containing id, name and salary, sort it in desc order based on the salary using streams
